@@ -1,0 +1,63 @@
+.formControll.error textarea {
+    border: solid red 2px;
+}
+
+.addTaskForm {
+    background-color: peachpuff;
+    padding: 10px;
+}
+
+.editTaskForm {
+    background-color: peachpuff;
+    padding: 10px;
+    height: 230px;
+}
+
+.formControll.error input {
+    border: solid red 1px;
+}
+
+.formControl.span {
+    color: black;
+}
+
+.formSummaryError {
+    color: red;
+    font-weight: bold;
+}
+
+form {
+    text-align: center;
+}
+
+form input {
+    width: 200px;
+    height: 30px;
+    margin: 2px;
+    border-radius: 3px;
+}
+
+form textarea {
+    width: 200px;
+    height: 60px;
+    margin: 2px;
+    border-radius: 3px;
+}
+
+form button {
+    width: 200px;
+    height: 30px;
+    margin: 2px;
+}
+
+.closeAddTaskForm {
+    width: 20px;
+    height: 20px;
+    float: right;
+}
+
+.closeEditTaskForm {
+    width: 20px;
+    height: 20px;
+    float: right;
+}

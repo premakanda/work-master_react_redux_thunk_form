@@ -1,0 +1,46 @@
+.taskBlock {
+    margin-top: 10px;
+    border: 1px solid darkblue;
+    width: 500px;
+    margin-bottom: 3px;
+    padding: 3px;
+}
+
+.tableShowTasks tr td {
+    text-align: left;
+}
+
+.nameColumn {
+    font-weight: bold;
+    width: 108px;
+}
+
+.edited {
+    text-align: center;
+}
+
+.contentColumn {
+    width: 300px;
+}
+
+.tableShowTasks {
+    background-color: cornsilk;
+    width: 500px;
+    border-radius: 3px;
+}
+
+.editButton {
+    width: 105px;
+    border-radius: 3px;
+    background-color: bisque;
+}
+
+.tableShowTasks tr {
+    width: 400px;
+}
+
+table {
+    border-spacing: 0px;
+    border-collapse: collapse;
+
+}

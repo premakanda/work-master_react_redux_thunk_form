@@ -1,0 +1,14 @@
+.app-wrapper {
+    margin: 0 auto;
+    width: 1200px;
+    height: 700px;
+    padding: 1px;
+}
+.content{
+    background-color: lavenderblush;
+    width: 1250px;
+    margin: 0 auto;
+    height: 1200px;
+    border-left: 1px solid darkturquoise;
+    border-right: 1px solid darkturquoise;
+}
